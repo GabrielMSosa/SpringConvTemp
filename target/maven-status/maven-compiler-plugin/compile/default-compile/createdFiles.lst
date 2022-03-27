@@ -1,0 +1,6 @@
+com\conversortempCaF\convCaF\ConvCaFApplication.class
+com\conversortempCaF\convCaF\model\ConvTempCaF.class
+com\conversortempCaF\convCaF\service\ConvCaFService.class
+com\conversortempCaF\convCaF\service\IServiceCAF.class
+com\conversortempCaF\convCaF\controller1\MiController.class
+com\conversortempCaF\convCaF\repository\ConvCaFRepository.class
